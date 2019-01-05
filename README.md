@@ -1,4 +1,4 @@
-# Histopathologic Cancer Detection - NASNet CNN base model
+# Histopathologic Cancer Detector NASNet CNN
 
 
 
