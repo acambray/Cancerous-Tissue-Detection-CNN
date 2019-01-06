@@ -4,7 +4,8 @@
 
 ### CNN Architecture
 The problem is binary classification of 96x96 RGB images.
-The bottom of a NASNet convolutional neural network was used as the base model. The output of said base model is passed through Global Max Pooling, Global Average Pooling and Flattened parallely then these outputs are concatenated. Further, the concatenated output is passed through a fully connected layer with dropout during training and finally, there is a single output neuron with sigmoid activation function.
+
+A topless NASNet convolutional neural network was used as the base model. The output of said base model is passed through Global Max Pooling, Global Average Pooling and Flattened parallely then these outputs are concatenated. Further, the concatenated output is passed through a fully connected layer with dropout during training and finally, there is a single output neuron with sigmoid activation function.
 
 
 
