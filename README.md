@@ -18,7 +18,7 @@ A topless NASNet convolutional neural network was used as the base model. The ou
    
 2. Build and Train
    - Run build_and_train
-   - Model which best performs will be saved on the main folder
+   - Model which best performs on validation data will be saved on the main folder
    
 3. Load and Predict
    - Run load_and_predict
