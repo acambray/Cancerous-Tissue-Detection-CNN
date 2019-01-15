@@ -1,6 +1,8 @@
 # Histopathologic Cancer Detector NASNet CNN
 
-
+<p align="left">
+ <img src="https://i.imgur.com/5U5E8tB.jpg" width=800>
+</p>
 
 ### CNN Architecture
 The problem is binary classification of 96x96 RGB images.
